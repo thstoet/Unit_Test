@@ -1,0 +1,21 @@
+2020-01-08 21:18:16,029 - __main__ | ERROR :  - Tried to devide by zero
+2020-01-08 21:19:36,363 - __main__ | ERROR :  - Tried to devide by zero
+Traceback (most recent call last):
+  File "C:/Python/Script_me/Logging/calc_advanced.py", line 20, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-08 21:25:22,867 - __main__ | ERROR :  - Tried to devide by zero
+Traceback (most recent call last):
+  File "C:/Python/Script_me/Logging/calc_advanced.py", line 24, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-10 21:06:04,278 - __main__ | ERROR :  - Tried to devide by zero
+Traceback (most recent call last):
+  File "C:/Python/Script_me/Logging/calc_advanced.py", line 24, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-21 21:46:43,441 - __main__ | ERROR :  - Tried to devide by zero
+Traceback (most recent call last):
+  File "C:/Python/Script_me/Logging/calc_advanced.py", line 24, in div
+    result = x / y
+ZeroDivisionError: division by zero
